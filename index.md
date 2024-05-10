@@ -4,9 +4,9 @@ layout: default
 
 # About Me
 
-![OenPic](./OenPic.jpeg)
-
 Hello! My name is Oen McKinley, and I am a second-year Ph.D. candidate with the Visual Interface and Behavior Exploration Lab at Washington University in St. Louis. My focus is in the field of Data Visualizations, working with Alvitta Ottley.
+
+![OenPic](./OenPic.jpeg)
 
 # My Research
 
