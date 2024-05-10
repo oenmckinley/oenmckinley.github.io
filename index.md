@@ -34,107 +34,87 @@ Email: [m.oen@wustl.edu](mailto:m.oen@wustl.edu)
 Github: [oenmckinley](https://github.com/oenmckinley)
 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[comment]: > This is a blockquote following a header.
+[comment]: > When something is important enough, you do it even if the odds are not in your favor.
 
 
 ```js
 // Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+//var fun = function lang(l) {
+//  dateformat.i18n = require('./lang/' + l)
+//  return true;
+//}
 ```
 
 ```ruby
 # Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+# GitHubPages::Dependencies.gems.each do |gem, version|
+#   s.add_dependency(gem, "= #{version}")
+# end
 ```
 
-#### Header 4
+[comment]: #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+[comment]: *   This is an unordered list following a header.
+[comment]: *   This is an unordered list following a header.
+[comment]: *   This is an unordered list following a header.
 
-##### Header 5
+[comment]: ##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[comment]: 1.  This is an ordered list following a header.
+[comment]: 2.  This is an ordered list following a header.
+[comment]: 3.  This is an ordered list following a header.
 
-###### Header 6
+[comment]: ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[comment]: | head1        | head two          | three |
+[comment]: |:-------------|:------------------|:------|
+[comment]: | ok           | good swedish fish | nice  |
+[comment]: | out of stock | good and plenty   | nice  |
+[comment]: | ok           | good `oreos`      | hmm   |
+[comment]: | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+[comment]: ### There's a horizontal rule below this.
 
-* * *
+[comment]: * * *
 
-### Here is an unordered list:
+[comment]: ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+[comment]: *   Item foo
+[comment]: *   Item bar
+[comment]: *   Item baz
+[comment]: *   Item zip
 
-### And an ordered list:
+[comment]: ### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+[comment]: 1.  Item one
+[comment]: 1.  Item two
+[comment]: 1.  Item three
+[comment]: 1.  Item four
 
-### And a nested list:
+[comment]: ### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+[comment]: - level 1 item
+[comment]:   - level 2 item
+[comment]:   - level 2 item
+[comment]:     - level 3 item
+[comment]:     - level 3 item
+[comment]: - level 1 item
+[comment]:   - level 2 item
+[comment]:   - level 2 item
+[comment]:   - level 2 item
+[comment]: - level 1 item
+[comment]:   - level 2 item
+[comment]:   - level 2 item
+[comment]: - level 1 item
 
-### Small image
+[comment]: ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+[comment]: ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+[comment]: ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[comment]: ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[comment]: ### Definition lists can be used with HTML syntax.
