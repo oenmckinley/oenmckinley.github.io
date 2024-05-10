@@ -17,7 +17,7 @@ My research has so far focused on the realm of trust in Data Visualizations, nam
 [Do You Trust What You See? Towards A Multidimensional Measure of Trust in Visualization](https://arxiv.org/pdf/2308.04727.pdf)\
 Saugat Pandey, **Oen G. McKinley**, R. Jordan Crouser, Alvitta Ottley\
 IEEE VIS, 2023\
-Exploring the dimensions influencing trust in information visualization design: Credibility, clarity, reliability, familiarity, and confidence.
+_Exploring the dimensions influencing trust in information visualization design: Credibility, clarity, reliability, familiarity, and confidence._
 
 # Contact Me
 
