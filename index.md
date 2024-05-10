@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -10,17 +12,32 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hello! My name is Oen McKinley, and I am a second-year Ph.D. candidate with the Visual Interface and Behavior Exploration Lab at Washington University in St. Louis. My focus is in the field of Data Visualizations, working with Alvitta Ottley.
 
-## Header 2
+# My Research
+
+My research has so far focused on the realm of trust in Data Visualizations, namely whether and how the design elements of a visualization impacts the viewer's trust, accounting for the demographic characteristics of the user.
+
+## Published Works
+
+[Do You Trust What You See? Towards A Multidimensional Measure of Trust in Visualization](https://arxiv.org/pdf/2308.04727.pdf)
+Saugat Pandey, **Oen G. McKinley**, R. Jordan Crouser, Alvitta Ottley
+IEEE VIS, 2023
+Exploring the dimensions influencing trust in information visualization design: Credibility, clarity, reliability, familiarity, and confidence.
+
+# Contact Me
+
+Email: [m.oen@wustl.edu](mailto:m.oen@wustl.edu)
+
+Github: [oenmckinley](https://github.com/oenmckinley)
+
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
