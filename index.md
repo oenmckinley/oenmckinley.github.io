@@ -2,15 +2,13 @@
 layout: default
 ---
 
+[comment]: Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+[comment]: [Link to another page](./another-page.html).
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[comment]: There should be whitespace between paragraphs.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[comment]: There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About Me
 
