@@ -6,7 +6,7 @@ layout: default
 
 Hello! My name is Oen McKinley, and I am a second-year Ph.D. candidate with the [Visual Interface and Behavior Exploration Lab](http://visualdata.wustl.edu/) at Washington University in St. Louis. My focus is in the field of Data Visualizations, working with [Alvitta Ottley](https://scholar.google.com/citations?user=yepPD_cAAAAJ&amp;hl=en).
 
-<a href="" class="btn">Read more</a>
+<a href="" class="btn2">Read more</a>
 
 ![OenPic](./OenPic.jpeg)
 
@@ -14,7 +14,7 @@ Hello! My name is Oen McKinley, and I am a second-year Ph.D. candidate with the 
 
 My research has so far focused on the realm of trust in Data Visualizations, namely whether and how the design elements of a visualization impacts the viewer's trust, accounting for the demographic characteristics of the user. 
 
-<a href="" class="btn">Read more</a>
+<a href="" class="btn2">Read more</a>
 
 ## Published Works
 
