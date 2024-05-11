@@ -35,8 +35,10 @@ Here are some relevant links:
 *   Medium blog: [oenmckinley](https://medium.com/@oenmckinley)
 *   YouTube channel with a short 3D cartoon: [McOenG](https://www.youtube.com/@ogm971)
 
-# Contact Me
+# Contact Info and Relevant Links
 
 Email: [m.oen@wustl.edu](mailto:m.oen@wustl.edu)
 
 Github: [oenmckinley](https://github.com/oenmckinley)
+
+Google Scholar: [Oen G. McKinley](https://scholar.google.com/citations?hl=en&user=l_B0DdgAAAAJ)

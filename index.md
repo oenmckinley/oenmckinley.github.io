@@ -24,8 +24,10 @@ Saugat Pandey, **Oen G. McKinley**, R. Jordan Crouser, Alvitta Ottley\
 IEEE VIS, 2023\
 _Exploring the dimensions influencing trust in information visualization design: Credibility, clarity, reliability, familiarity, and confidence._
 
-# Contact Me
+# Contact Info and Relevant Links
 
 Email: [m.oen@wustl.edu](mailto:m.oen@wustl.edu)
 
 Github: [oenmckinley](https://github.com/oenmckinley)
+
+Google Scholar: [Oen G. McKinley](https://scholar.google.com/citations?hl=en&user=l_B0DdgAAAAJ)
