@@ -1,0 +1,11 @@
+Product,Price ($),Units Sold,Profit Margin (%),Category
+Product_A,114.12,8704,6.57,Apparel
+Product_B,41.28,9357,30.06,Apparel
+Product_C,162.3,4143,40.69,Electronics
+Product_D,92.7,8435,38.29,Apparel
+Product_E,184.91,502,36.3,Outdoors
+Product_F,56.73,6101,9.11,Home
+Product_G,101.11,6127,22.3,Electronics
+Product_H,169.21,5648,6.72,Apparel
+Product_I,132.88,3824,12.55,Apparel
+Product_J,134.46,1863,16.94,Electronics

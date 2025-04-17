@@ -1,0 +1,6 @@
+Age Group,Cases,Mortality Rate (%),Disease
+0-10,50,1.0,Flu
+11-20,80,0.5,Cold
+21-30,120,1.2,Flu
+31-50,90,2.0,Flu
+51+,60,4.5,Pneumonia

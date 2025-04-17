@@ -1,0 +1,11 @@
+Country,Life Expectancy,Disease Prevalence (%),Population,Region
+Country A,66.4,15.1,138590266,High-income
+Country B,69.5,9.5,50666263,Low-income
+Country C,80.2,6.2,113173800,High-income
+Country D,80.3,20.1,8060885,High-income
+Country E,77.2,11.6,14498969,Low-income
+Country F,84.8,27.0,72506738,High-income
+Country G,70.1,19.6,79905948,Low-income
+Country H,64.8,16.9,39672355,Middle-income
+Country I,72.2,9.3,16595903,Middle-income
+Country J,72.6,6.4,74565292,High-income

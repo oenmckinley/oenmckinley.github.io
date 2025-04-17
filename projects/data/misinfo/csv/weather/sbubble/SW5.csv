@@ -1,0 +1,6 @@
+Event,Duration (days),Total Rainfall (mm),Affected People (thousands),Event Type
+Flood A,6,210.3,194,Flood
+Drought B,9,309.2,158,Drought
+Storm C,2,355.0,340,Storm
+Flood D,2,593.6,289,Flood
+Storm E,5,582.8,370,Storm
