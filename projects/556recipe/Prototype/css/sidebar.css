@@ -1,0 +1,74 @@
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 260px;
+    background-color: #fff0dc;
+    padding: 1rem;
+    overflow-y: auto;
+    margin: 50px;
+    margin-left: 80px;
+    border-radius: 8px;
+    margin-right: 0;
+
+}
+
+.apply {
+    background-color: #ffb84d;
+}
+
+.clear {
+    background-color: white;
+    border: 1px solid #ccc;
+}
+
+.filter-section {
+    margin-bottom: 0.5rem;
+}
+
+.filter-section h3 {
+    font-size: 1rem;
+    margin-bottom: 0.3rem;
+
+}
+
+.filter-section input[type="text"],
+.filter-section input[type="number"] {
+    width: 40%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    padding: 0.3rem;
+
+}
+
+.filter-section label {
+    display: block;
+    margin-bottom: 0.3rem;
+    font-size: 0.9rem;
+}
+
+.content {
+    flex: 1;
+    padding: 2rem;
+}
+
+.search-bar {
+    border-radius: 30px;
+}
+
+.search-bar input {
+    padding: 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+}
+
+.search-bar button {
+    padding: 0.6rem 1rem;
+    border: 1px solid #ccc;
+    background-color: #ffe8c6;
+    border-left: none;
+    cursor: pointer;
+    border-radius: 0 4px 4px 0;
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CookMate - Recipe Details</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/recipe.css">
+
+    <script defer src="../js/recipe.js"></script>
+</head>
+
+<body>
+    <header class="topbar">
+        <div class="logo"><i class="bi bi-book"></i> CookMate</div>
+        <nav class="nav-links">
+            <a class="btn_header" href="1.recipes.html">Recipes</a>
+            <a class="btn_header" href="2.myPlanner.html">My Planner</a>
+            <a class="btn_header" href="3.myGroceries.html">My Groceries</a>
+            <a class="btn_header" href="4.profile.html">Profile</a>
+        </nav>
+    </header>
+
+    <button type="button" class="back-button" onclick="goBack()">
+        <i class="bi bi-arrow-left"></i>
+        <span class="visually-hidden">Go Back</span>
+    </button>
+
+    <div class="container">
+        <div class="row">
+            <!-- Left column for the image -->
+            <div class="video-container">
+                <div class="video">
+                    <img src="../img/video.png" alt="Recipe Image" id="recipeImage">
+                </div>
+            </div>
+
+            <!-- Right column for title and content -->
+            <div class="content-container">
+                <h1 id="recipeTitle">Recipe Title</h1>
+                <!-- Toggle bar -->
+                <div class="toggle-bar">
+                    <a href="#" id="showIngredients" class="active">Ingredients</a>
+                    <a href="#" id="showRecipe">Instructions</a>
+                </div>
+                <!-- Sections -->
+                <div id="ingredientsSection">
+                    <ul id="recipeIngredients"></ul>
+                </div>
+                <div id="instructionsSection" style="display: none;">
+                    <p id="recipeInstructions"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function goBack() {
+            window.location.href = '1.recipes.html'; // Redirect to the Recipes page
+        }
+        const urlParams = new URLSearchParams(window.location.search);
+        const recipeTitle = urlParams.get('title');
+
+        if (recipeTitle) {
+            fetch('../recipes_with_instructions.json')
+                .then(response => response.json())
+                .then(recipes => {
+                    const recipe = recipes.find(r => r.title === recipeTitle);
+                    if (recipe) {
+                        document.getElementById('recipeTitle').textContent = recipe.title;
+                        document.getElementById('recipeIngredients').innerHTML = recipe.ingredients
+                            .map(ingredient => `<li>${ingredient}</li>`)
+                            .join('');
+                        document.getElementById('recipeInstructions').innerHTML = recipe.instruction
+                            .split('Step')
+                            .filter(step => step.trim() !== '')
+                            .map((step, index) => `<p>Step${step.trim()}</p>`)
+                            .join(''); document.getElementById('recipeImage').src = recipe.img || '../img/video.png';
+                    } else {
+                        console.error('Recipe not found');
+                    }
+                })
+                .catch(error => console.error('Error fetching recipes:', error));
+        } else {
+            console.error('No recipe title provided in the URL');
+        }
+
+
+
+        document.getElementById('showRecipe').addEventListener('click', (e) => {
+            e.preventDefault();
+            document.getElementById('ingredientsSection').style.display = 'none';
+            document.getElementById('instructionsSection').style.display = 'block';
+
+            document.getElementById('showRecipe').classList.add('active');
+            document.getElementById('showIngredients').classList.remove('active');
+        });
+
+        document.getElementById('showIngredients').addEventListener('click', (e) => {
+            e.preventDefault();
+            document.getElementById('instructionsSection').style.display = 'none';
+            document.getElementById('ingredientsSection').style.display = 'block';
+
+            document.getElementById('showIngredients').classList.add('active');
+            document.getElementById('showRecipe').classList.remove('active');
+        });
+    </script>
+</body>
+
+</html>

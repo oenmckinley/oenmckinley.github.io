@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Schedule Page</title>
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/schedule_style.css">
+</head>
+
+<body>
+
+    <!-- here is the main head -->
+    <header class="topbar">
+        <div class="logo"><i class="bi bi-book"></i> CookMate</div>
+        <nav class="nav-links">
+            <a class="btn_header" href="1.recipes.html">Recipes</a>
+            <a class="btn_header" style="font-weight: 700;" href="2.myPlanner.html">My Planner</a>
+            <a class="btn_header" href="3.myGroceries.html">My Groceries</a>
+            <a class="btn_header" href="4.profile.html">Profile</a>
+        </nav>
+    </header>
+
+    <!-- here are all the added recipes -->
+    <div class="added_recipes">
+        <div class="added_recipes_title">Added Recipes</div>
+        <div class="added_recipes_list"></div>
+    </div>
+
+    <!-- here is the selection part of date -->
+    <div class="schedule_date_selection"></div>
+    <div class="left_arrow"></div>
+    <div class="right_arrow"></div>
+
+    <!-- here is the week calendar -->
+    <div class="calendar">
+        <div class="calendar_day" style="left: 0%" id="day1">
+            <div class="calendar_date"></div>
+            <div hidden class="full_calendar_date"></div>
+            <div class="calendar_meals" style="outline: 3px #FFD9D9 solid; ">
+                <p class="meal_name">Add Breakfast</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #FEE6C9 solid; top: 40%">
+                <p class="meal_name">Add Lunch</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #D2F0FF solid; top: 60%;">
+                <p class="meal_name">Add Dinner</p>
+            </div>
+        </div>
+        <div class="calendar_day" style="left: 14.2%" id="day2">
+            <div class="calendar_date"></div>
+            <div hidden class="full_calendar_date"></div>
+            <div class="calendar_meals" style="outline: 3px #FFD9D9 solid; ">
+                <p class="meal_name">Add Breakfast</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #FEE6C9 solid; top: 40%">
+                <p class="meal_name">Add Lunch</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #D2F0FF solid; top: 60%;">
+                <p class="meal_name">Add Dinner</p>
+            </div>
+        </div>
+        <div class="calendar_day" style="left: 28.4%" id="day3">
+            <div class="calendar_date"></div>
+            <div hidden class="full_calendar_date"></div>
+            <div class="calendar_meals" style="outline: 3px #FFD9D9 solid; ">
+                <p class="meal_name">Add Breakfast</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #FEE6C9 solid; top: 40%">
+                <p class="meal_name">Add Lunch</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #D2F0FF solid; top: 60%;">
+                <p class="meal_name">Add Dinner</p>
+            </div>
+        </div>
+        <div class="calendar_day" style="left: 42.6%" id="day4">
+            <div class="calendar_date"></div>
+            <div hidden class="full_calendar_date"></div>
+            <div class="calendar_meals" style="outline: 3px #FFD9D9 solid; ">
+                <p class="meal_name">Add Breakfast</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #FEE6C9 solid; top: 40%">
+                <p class="meal_name">Add Lunch</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #D2F0FF solid; top: 60%;">
+                <p class="meal_name">Add Dinner</p>
+            </div>
+        </div>
+        <div class="calendar_day" style="left: 56.8%" id="day5">
+            <div class="calendar_date"></div>
+            <div hidden class="full_calendar_date"></div>
+            <div class="calendar_meals" style="outline: 3px #FFD9D9 solid; ">
+                <p class="meal_name">Add Breakfast</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #FEE6C9 solid; top: 40%">
+                <p class="meal_name">Add Lunch</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #D2F0FF solid; top: 60%;">
+                <p class="meal_name">Add Dinner</p>
+            </div>
+        </div>
+        <div class="calendar_day" style="left: 71%" id="day6">
+            <div class="calendar_date"></div>
+            <div hidden class="full_calendar_date"></div>
+            <div class="calendar_meals" style="outline: 3px #FFD9D9 solid; ">
+                <p class="meal_name">Add Breakfast</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #FEE6C9 solid; top: 40%">
+                <p class="meal_name">Add Lunch</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #D2F0FF solid; top: 60%;">
+                <p class="meal_name">Add Dinner</p>
+            </div>
+        </div>
+        <div class="calendar_day" style="left: 85.2%" id="day7">
+            <div class="calendar_date"></div>
+            <div hidden class="full_calendar_date"></div>
+            <div class="calendar_meals" style="outline: 3px #FFD9D9 solid; ">
+                <p class="meal_name">Add Breakfast</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #FEE6C9 solid; top: 40%">
+                <p class="meal_name">Add Lunch</p>
+            </div>
+            <div class="calendar_meals" style="outline: 3px #D2F0FF solid; top: 60%;">
+                <p class="meal_name">Add Dinner</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- here is the div shown when clicking an added recipe -->
+    <div class="recipe_hover_div">
+
+        <!-- show the name -->
+        <div style="top: 2%;left: 2%;width: 90%;height: 30%;position: absolute;">
+            <p class="recipe_name"></p>
+        </div>
+
+        <!-- click to show the details of the recipe -->
+        <div style="top: 25%;left: 5%;width: 90%;height: 30%;position: absolute;">
+            <button class="recipe_hover_show" type="button">Show Details</button>
+        </div>
+
+        <!-- choose date to add -->
+        <div style="top: 55%;left: 5%;width: 90%;height: 50%;position: absolute;">
+            <!-- button -->
+            <div style="top: 0%;left: 0%;width: 30%;height: 100%;position: absolute;">
+                <button class="recipe_hover_add" type="button">Add to:</button>
+            </div>
+
+            <div id="recipe_hover_choose" style="top: 0%;left: 35%;width: 60%;height: 100%;position: absolute;">
+                <!-- date range -->
+                <div style="top: 0%;left: 0%;width: 40%;height: 100%;position: absolute;">
+                    <p>From:</p>
+                    <label><input type="date" class="date" id="date_from"></label>
+                    <p>To:</p>
+                    <label><input type="date" class="date" id="date_to"></label>
+                </div>
+                <!-- which meal -->
+                <div style="top: 20%;left: 60%;width: 40%;height: 100%;position: absolute;">
+                    <label><input type="checkbox" id="to_breakfast">Breakfast</label><br>
+                    <label><input type="checkbox" id="to_lunch">Lunch</label><br>
+                    <label><input type="checkbox" id="to_dinner">Dinner</label>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- here is the div shown when clicking a day on the week schedule -->
+    <div class="meal_hover_div">
+        <div hidden class="meal_date"></div>
+
+        <!-- show the scheduled meals on the left -->
+        <div style="top: 2%;left: 2%;width: 50%;height: 96%;position: absolute;">
+            <div class="scheduled_meals_title">Scheduled Meals:</div>
+            <div class="scheduled_meals"></div>
+        </div>
+
+        <!-- show the option to check favorite and search -->
+        <div style="top: 0%;left: 55%;width: 40%;height: 100%;position: absolute;">
+            <div style="top: 25%;left: 5%;width: 90%;height: 20%;position: absolute;">
+                <button class="meal_hover_clear" type="button">Clear</button>
+            </div>
+            <div style="top: 55%;left: 5%;width: 90%;height: 20%;position: absolute;">
+                <button class="meal_hover_search" type="button">Search</button>
+            </div>
+        </div>
+
+
+    </div>
+
+    <script src="../js/addedrecipes.js"></script>
+    <script src="../js/schedule.js"></script>
+
+
+</body>
+
+</html>

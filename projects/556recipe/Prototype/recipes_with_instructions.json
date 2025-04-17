@@ -1,0 +1,1296 @@
+[
+  {
+    "title": "Roasted Chicken",
+    "cost": "$15",
+    "time": "70-90",
+    "ingredients": [
+      "Chicken",
+      "Olive Oil",
+      "Salt",
+      "Pepper",
+      "Herbs",
+      "Garlic",
+      "Onion"
+    ],
+    "img": "",
+    "preference": [
+      "High Protein",
+      "American",
+      "Main Course"
+    ],
+    "restriction": [
+      "Gluten-Free"
+    ],
+    "utensils": [
+      "Oven",
+      "Roasting Pan",
+      "Thermometer"
+    ],
+    "instruction": "Step 1: Preheat oven and prepare the chicken with oil, seasonings, and aromatics.\nStep 2: Roast in the oven until cooked through, verifying with a meat thermometer.\nStep 3: Let rest before carving and serving."
+  },
+  {
+    "title": "Avocado Toast",
+    "cost": "$5",
+    "time": "5-10",
+    "ingredients": [
+      "Bread",
+      "Avocado",
+      "Salt",
+      "Pepper",
+      "Lemon Juice",
+      "Red Pepper Flakes",
+      "Egg"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "Breakfast",
+      "Snack",
+      "Vegetarian"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Toaster",
+      "Knife",
+      "Fork"
+    ],
+    "instruction": "Step 1: Toast the bread slices.\nStep 2: Mash avocado with salt, pepper, and optional seasonings.\nStep 3: Spread avocado mix on toast and add any extra toppings."
+  },
+  {
+    "title": "Spaghetti Bolognese",
+    "cost": "$14",
+    "time": "60-90",
+    "ingredients": [
+      "Spaghetti",
+      "Ground Beef",
+      "Onion",
+      "Carrot",
+      "Celery",
+      "Garlic",
+      "Tomatoes",
+      "Tomato Paste",
+      "Olive Oil",
+      "Wine",
+      "Salt",
+      "Pepper",
+      "Parmesan"
+    ],
+    "img": "",
+    "preference": [
+      "Italian",
+      "Main Course",
+      "Comfort Food"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pot",
+      "Dutch Oven",
+      "Knife",
+      "Cutting Board",
+      "Spoon"
+    ],
+    "instruction": "Step 1: Sauté vegetables, then brown the meat. Add tomatoes and liquids, then simmer the sauce.\nStep 2: Cook spaghetti according to package directions.\nStep 3: Serve sauce over spaghetti, topped with Parmesan cheese."
+  },
+  {
+    "title": "Caesar Salad",
+    "cost": "$10",
+    "time": "15-20",
+    "ingredients": [
+      "Romaine",
+      "Croutons",
+      "Parmesan",
+      "Caesar Dressing",
+      "Pepper"
+    ],
+    "img": "",
+    "preference": [
+      "Salad",
+      "American",
+      "Side Dish",
+      "Appetizer"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Bowl",
+      "Tongs",
+      "Knife"
+    ],
+    "instruction": "Step 1: Wash and chop Romaine lettuce.\nStep 2: Combine lettuce, croutons, and Parmesan cheese in a large bowl.\nStep 3: Add Caesar dressing and toss gently to coat. Serve immediately."
+  },
+  {
+    "title": "Pancakes",
+    "cost": "$5",
+    "time": "15-20",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Butter",
+      "Sugar",
+      "Baking Powder",
+      "Salt"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "Breakfast",
+      "Brunch"
+    ],
+    "restriction": [
+      "Vegetarian"
+    ],
+    "utensils": [
+      "Pan",
+      "Bowl",
+      "Whisk",
+      "Spatula",
+      "Ladle"
+    ],
+    "instruction": "Step 1: Whisk together dry ingredients. In another bowl, whisk wet ingredients.\nStep 2: Combine wet and dry ingredients, mixing until just combined (some lumps okay).\nStep 3: Pour batter onto a preheated, lightly greased griddle/pan. Cook until bubbles form, then flip and cook until golden brown."
+  },
+  {
+    "title": "Grilled Cheese",
+    "cost": "$5",
+    "time": "10-15",
+    "ingredients": [
+      "Bread",
+      "Cheese",
+      "Butter"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "Comfort Food",
+      "Lunch",
+      "Snack",
+      "Vegetarian"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pan",
+      "Spatula",
+      "Knife"
+    ],
+    "instruction": "Step 1: Butter the outside of two bread slices.\nStep 2: Place cheese between the unbuttered sides of the bread.\nStep 3: Grill in a pan over medium heat, flipping once, until bread is golden brown and cheese is melted."
+  },
+  {
+    "title": "Beef Tacos",
+    "cost": "$12",
+    "time": "25-30",
+    "ingredients": [
+      "Ground Beef",
+      "Taco Seasoning",
+      "Onion",
+      "Water/Broth",
+      "Taco Shells",
+      "Toppings"
+    ],
+    "img": "",
+    "preference": [
+      "Mexican",
+      "Tex-Mex",
+      "Main Course"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pan",
+      "Spatula",
+      "Knife",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Brown ground beef with chopped onion in a pan; drain excess fat.\nStep 2: Stir in taco seasoning and water/broth; simmer until slightly thickened.\nStep 3: Warm taco shells/tortillas and assemble tacos with beef mixture and desired toppings."
+  },
+  {
+    "title": "Sushi Roll (Maki)",
+    "cost": "$13",
+    "time": "45-60",
+    "ingredients": [
+      "Sushi Rice",
+      "Nori",
+      "Fish",
+      "Avocado",
+      "Cucumber",
+      "Soy Sauce",
+      "Wasabi",
+      "Ginger"
+    ],
+    "img": "",
+    "preference": [
+      "Japanese",
+      "Asian",
+      "Appetizer",
+      "Main Course"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Sushi Mat",
+      "Knife",
+      "Pot",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Place a nori sheet on the sushi mat. Spread a thin layer of seasoned sushi rice over the nori.\nStep 2: Arrange your desired fillings in a line near the bottom edge of the rice.\nStep 3: Roll the mat tightly, pressing gently. Wet the knife and slice the roll into pieces. Serve with soy sauce, wasabi, and ginger."
+  },
+  {
+    "title": "Veggie Stir Fry",
+    "cost": "$10",
+    "time": "20-25",
+    "ingredients": [
+      "Vegetables",
+      "Oil",
+      "Soy Sauce",
+      "Garlic",
+      "Ginger",
+      "Sesame Oil",
+      "Rice"
+    ],
+    "img": "",
+    "preference": [
+      "Asian",
+      "Chinese",
+      "Vegetarian",
+      "Vegan",
+      "Main Course",
+      "Healthy"
+    ],
+    "restriction": [
+      "Gluten-Free (use Tamari instead of Soy Sauce)"
+    ],
+    "utensils": [
+      "Wok",
+      "Spatula",
+      "Knife",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Prepare all vegetables by chopping them into bite-sized pieces. Mince garlic and ginger.\nStep 2: Heat oil in wok/pan over high heat. Stir-fry garlic and ginger, then add vegetables, cooking until tender-crisp.\nStep 3: Add soy sauce and sesame oil (if using), toss to coat. Serve immediately over rice."
+  },
+  {
+    "title": "Mushroom Risotto",
+    "cost": "$12",
+    "time": "35-45",
+    "ingredients": [
+      "Arborio Rice",
+      "Mushrooms",
+      "Onion",
+      "Garlic",
+      "Broth",
+      "Wine",
+      "Parmesan",
+      "Butter",
+      "Olive Oil",
+      "Salt",
+      "Pepper",
+      "Parsley"
+    ],
+    "img": "",
+    "preference": [
+      "Italian",
+      "Main Course",
+      "Comfort Food",
+      "Vegetarian (use vegetable broth)"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pot",
+      "Ladle",
+      "Spoon",
+      "Knife",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Sauté onions and mushrooms in oil/butter. Add garlic, then Arborio rice and toast lightly. Add wine if using.\nStep 2: Add warm broth one ladleful at a time, stirring constantly and allowing liquid to absorb before adding more, until rice is creamy and cooked al dente.\nStep 3: Stir in Parmesan cheese, butter, salt, pepper, and parsley. Serve immediately."
+  },
+  {
+    "title": "Fruit Bowl",
+    "cost": "$6",
+    "time": "5-10",
+    "ingredients": [
+      "Fruits",
+      "Yogurt",
+      "Honey/Syrup",
+      "Granola"
+    ],
+    "img": "",
+    "preference": [
+      "Healthy",
+      "Breakfast",
+      "Snack",
+      "Dessert",
+      "Vegetarian"
+    ],
+    "restriction": [
+      "Gluten-Free",
+      "Vegan (omit honey/dairy yogurt)"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting Board",
+      "Bowl"
+    ],
+    "instruction": "Step 1: Wash and chop/prepare all desired fruits.\nStep 2: Combine fruits in a bowl.\nStep 3: Top with optional yogurt, sweetener, or granola if desired."
+  },
+  {
+    "title": "Tomato Soup",
+    "cost": "$8",
+    "time": "25-30",
+    "ingredients": [
+      "Tomatoes",
+      "Onion",
+      "Garlic",
+      "Broth",
+      "Oil/Butter",
+      "Cream/Milk",
+      "Salt",
+      "Pepper",
+      "Basil"
+    ],
+    "img": "",
+    "preference": [
+      "Soup",
+      "Appetizer",
+      "Lunch",
+      "Comfort Food",
+      "Vegetarian"
+    ],
+    "restriction": [
+      "Gluten-Free",
+      "Vegan (use oil and non-dairy milk or omit cream)"
+    ],
+    "utensils": [
+      "Pot",
+      "Blender",
+      "Knife",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Sauté onion and garlic in oil/butter in a pot.\nStep 2: Add tomatoes, broth, salt, pepper, and basil. Simmer for 15-20 minutes.\nStep 3: Blend soup until smooth using an immersion or countertop blender. Stir in cream/milk if desired. Reheat gently and serve."
+  },
+  {
+    "title": "Lentil Curry",
+    "cost": "$10",
+    "time": "30-40",
+    "ingredients": [
+      "Lentils",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Curry Powder",
+      "Turmeric",
+      "Cumin",
+      "Tomatoes/Coconut Milk",
+      "Broth/Water",
+      "Oil",
+      "Salt",
+      "Cilantro"
+    ],
+    "img": "",
+    "preference": [
+      "Indian",
+      "Asian",
+      "Main Course",
+      "Vegetarian",
+      "Vegan",
+      "Healthy"
+    ],
+    "restriction": [
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "utensils": [
+      "Pot",
+      "Knife",
+      "Cutting Board",
+      "Spoon"
+    ],
+    "instruction": "Step 1: Sauté onion, garlic, and ginger in oil. Add spices and cook briefly.\nStep 2: Add rinsed lentils, tomatoes/coconut milk, and broth/water. Bring to a boil, then simmer until lentils are tender (20-30 mins).\nStep 3: Season with salt. Garnish with cilantro and serve, often with rice or naan."
+  },
+  {
+    "title": "Stuffed Peppers",
+    "cost": "$12",
+    "time": "60-75",
+    "ingredients": [
+      "Bell Peppers",
+      "Ground Meat/Lentils",
+      "Rice",
+      "Onion",
+      "Garlic",
+      "Tomatoes",
+      "Seasonings",
+      "Olive Oil",
+      "Cheese"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "Mediterranean",
+      "Main Course"
+    ],
+    "restriction": [
+      "Gluten-Free (check seasonings)"
+    ],
+    "utensils": [
+      "Oven",
+      "Baking Dish",
+      "Pan",
+      "Knife",
+      "Cutting Board",
+      "Bowl"
+    ],
+    "instruction": "Step 1: Prepare the filling by cooking meat/lentils with onion, garlic, rice, tomatoes, and seasonings.\nStep 2: Cut bell peppers in half (or cut tops off) and remove seeds. Fill peppers with the mixture.\nStep 3: Place peppers in a baking dish, add a little water to the bottom, cover (optional), and bake until peppers are tender and filling is heated through. Top with cheese during last few minutes if desired."
+  },
+  {
+    "title": "Fried Rice",
+    "cost": "$8",
+    "time": "15-20",
+    "ingredients": [
+      "Rice",
+      "Eggs",
+      "Vegetables",
+      "Soy Sauce",
+      "Sesame Oil",
+      "Oil",
+      "Protein"
+    ],
+    "img": "",
+    "preference": [
+      "Asian",
+      "Chinese",
+      "Main Course",
+      "Side Dish"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Wok",
+      "Spatula",
+      "Knife",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Heat oil in wok/pan. Scramble eggs and set aside. Sauté vegetables and protein (if using).\nStep 2: Add cold rice to the wok, breaking up clumps. Stir-fry for a few minutes.\nStep 3: Add soy sauce, sesame oil, and scrambled eggs back to the wok. Toss everything together until well combined and heated through."
+  },
+  {
+    "title": "Mac and Cheese",
+    "cost": "$9",
+    "time": "30-45",
+    "ingredients": [
+      "Macaroni",
+      "Butter",
+      "Flour",
+      "Milk",
+      "Cheese",
+      "Salt",
+      "Pepper",
+      "Breadcrumbs"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "Comfort Food",
+      "Main Course",
+      "Side Dish",
+      "Vegetarian"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pot",
+      "Saucepan",
+      "Whisk",
+      "Spoon",
+      "Baking Dish"
+    ],
+    "instruction": "Step 1: Cook macaroni pasta according to package directions; drain.\nStep 2: Make a cheese sauce: Melt butter in saucepan, whisk in flour, gradually whisk in milk until smooth. Heat until thickened, then stir in cheese until melted. Season with salt and pepper.\nStep 3: Combine cooked pasta with cheese sauce. Serve as is, or transfer to a baking dish, top with breadcrumbs, and bake until bubbly and golden."
+  },
+  {
+    "title": "Shakshuka",
+    "cost": "$10",
+    "time": "25-30",
+    "ingredients": [
+      "Eggs",
+      "Tomatoes",
+      "Onion",
+      "Garlic",
+      "Bell Pepper",
+      "Olive Oil",
+      "Spices",
+      "Salt",
+      "Pepper",
+      "Feta",
+      "Herbs"
+    ],
+    "img": "",
+    "preference": [
+      "Middle Eastern",
+      "North African",
+      "Breakfast",
+      "Brunch",
+      "Vegetarian"
+    ],
+    "restriction": [
+      "Gluten-Free"
+    ],
+    "utensils": [
+      "Skillet",
+      "Spoon",
+      "Knife",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Sauté onion, bell pepper (if using), and garlic in olive oil in an oven-safe skillet.\nStep 2: Stir in tomatoes and spices. Simmer for about 10 minutes until sauce thickens slightly.\nStep 3: Make small wells in the sauce and crack eggs into them. Simmer gently on stovetop or bake in oven until egg whites are set but yolks are runny. Garnish with feta and herbs."
+  },
+  {
+    "title": "Kimchi Stew (Kimchi Jjigae)",
+    "cost": "$12",
+    "time": "30-40",
+    "ingredients": [
+      "Kimchi",
+      "Pork/Tofu",
+      "Onion",
+      "Garlic",
+      "Gochujang",
+      "Gochugaru",
+      "Water/Broth",
+      "Scallions",
+      "Sesame Oil"
+    ],
+    "img": "",
+    "preference": [
+      "Korean",
+      "Asian",
+      "Soup/Stew",
+      "Main Course"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pot",
+      "Knife",
+      "Cutting Board",
+      "Ladle"
+    ],
+    "instruction": "Step 1: Sauté kimchi and pork/tofu in sesame oil in a pot. Add onion and garlic.\nStep 2: Stir in gochujang and gochugaru. Add water/broth and bring to a boil.\nStep 3: Reduce heat and simmer for 20-30 minutes until flavors meld and ingredients are tender. Garnish with scallions before serving, often with rice."
+  },
+  {
+    "title": "Spring Rolls (Fresh or Fried)",
+    "cost": "$11",
+    "time": "30-45",
+    "ingredients": [
+      "Wrappers",
+      "Fillings",
+      "Oil",
+      "Dipping Sauce"
+    ],
+    "img": "",
+    "preference": [
+      "Vietnamese",
+      "Chinese",
+      "Thai",
+      "Asian",
+      "Appetizer"
+    ],
+    "restriction": [
+      "Vegetarian/Vegan (depending on filling)",
+      "Gluten-Free (use rice paper wrappers and check sauce)"
+    ],
+    "utensils": [
+      "Shallow Dish",
+      "Cutting Board",
+      "Knife",
+      "Pot/Fryer"
+    ],
+    "instruction": "Step 1: Prepare all filling ingredients (cook proteins, chop vegetables, cook noodles if needed).\nStep 2: Soften rice paper wrappers in water OR lay out wheat-based wrappers. Place filling near one edge.\nStep 3: Fold in the sides and roll up tightly. Serve fresh rolls with dipping sauce, or deep fry/pan-fry wheat-based rolls until golden brown and serve with sauce."
+  },
+  {
+    "title": "Tiramisu",
+    "cost": "$14",
+    "time": "30 + chilling",
+    "ingredients": [
+      "Ladyfingers",
+      "Coffee",
+      "Eggs",
+      "Mascarpone",
+      "Sugar",
+      "Cocoa Powder",
+      "Liqueur"
+    ],
+    "img": "",
+    "preference": [
+      "Italian",
+      "Dessert"
+    ],
+    "restriction": [
+      "Vegetarian"
+    ],
+    "utensils": [
+      "Bowls",
+      "Mixer",
+      "Spatula",
+      "Dish"
+    ],
+    "instruction": "Step 1: Beat egg yolks with sugar until pale. Gently fold in mascarpone. In a separate clean bowl, beat egg whites until stiff peaks form, then fold into mascarpone mixture.\nStep 2: Briefly dip ladyfingers into cooled coffee (mixed with liqueur, if using). Arrange a layer in the dish.\nStep 3: Spread half the mascarpone mixture over the ladyfingers. Repeat layers. Chill for at least 4 hours or overnight. Dust with cocoa powder before serving."
+  },
+  {
+    "title": "Chicken Teriyaki",
+    "cost": "$12",
+    "time": "25-30",
+    "ingredients": [
+      "Chicken",
+      "Soy Sauce",
+      "Mirin",
+      "Sugar",
+      "Sake",
+      "Ginger",
+      "Garlic",
+      "Oil",
+      "Rice",
+      "Garnish"
+    ],
+    "img": "",
+    "preference": [
+      "Japanese",
+      "Asian",
+      "Main Course"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pan",
+      "Bowl",
+      "Whisk",
+      "Knife"
+    ],
+    "instruction": "Step 1: Cut chicken into bite-sized pieces. Whisk together soy sauce, mirin, sugar, sake (if using), ginger, and garlic for the teriyaki sauce.\nStep 2: Heat oil in pan and cook chicken until browned and cooked through.\nStep 3: Pour teriyaki sauce over chicken and simmer until sauce thickens and glazes the chicken. Serve over rice, garnished with scallions or sesame seeds."
+  },
+  {
+    "title": "Falafel Wrap",
+    "cost": "$9",
+    "time": "30-40",
+    "ingredients": [
+      "Falafel",
+      "Wrap/Pita",
+      "Hummus/Tahini",
+      "Lettuce",
+      "Tomato",
+      "Cucumber",
+      "Pickles",
+      "Onion"
+    ],
+    "img": "",
+    "preference": [
+      "Middle Eastern",
+      "Vegetarian",
+      "Vegan",
+      "Lunch",
+      "Street Food"
+    ],
+    "restriction": [
+      "Vegan"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting Board",
+      "Pan/Oven"
+    ],
+    "instruction": "Step 1: Warm falafel balls and pita/wrap if desired.\nStep 2: Spread hummus or tahini sauce inside the pita/wrap.\nStep 3: Add falafel balls (slightly crushed if preferred) and desired salad fillings (lettuce, tomato, cucumber, etc.). Wrap tightly and serve."
+  },
+  {
+    "title": "Clam Chowder (New England Style)",
+    "cost": "$14",
+    "time": "40-50",
+    "ingredients": [
+      "Clams",
+      "Potatoes",
+      "Onion",
+      "Celery",
+      "Bacon",
+      "Butter",
+      "Flour",
+      "Milk/Cream",
+      "Salt",
+      "Pepper",
+      "Crackers"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "Soup",
+      "Comfort Food",
+      "Seafood"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pot",
+      "Knife",
+      "Cutting Board",
+      "Spoon",
+      "Whisk"
+    ],
+    "instruction": "Step 1: Cook bacon (if using) in pot, remove bacon, leave fat. Sauté onion and celery in bacon fat or butter until softened. Add diced potatoes and reserved clam juice (add water if needed to cover potatoes); simmer until potatoes are tender.\nStep 2: In a small bowl or measuring cup, melt butter, whisk in flour to make a paste (roux), then gradually whisk in milk/cream until smooth.\nStep 3: Pour milk mixture into the pot with potatoes. Add chopped clams. Heat gently (do not boil) until chowder is thickened and heated through. Season with salt and pepper. Serve topped with crumbled bacon and oyster crackers."
+  },
+  {
+    "title": "Eggplant Parmesan",
+    "cost": "$13",
+    "time": "60-75",
+    "ingredients": [
+      "Eggplant",
+      "Salt",
+      "Eggs",
+      "Breadcrumbs",
+      "Oil",
+      "Marinara",
+      "Mozzarella",
+      "Parmesan",
+      "Basil"
+    ],
+    "img": "",
+    "preference": [
+      "Italian",
+      "Vegetarian",
+      "Main Course",
+      "Comfort Food"
+    ],
+    "restriction": [
+      "Vegetarian"
+    ],
+    "utensils": [
+      "Pan",
+      "Baking Dish",
+      "Knife",
+      "Cutting Board",
+      "Bowls",
+      "Tongs",
+      "Oven"
+    ],
+    "instruction": "Step 1: Slice eggplant, salt slices, and let sit to draw out moisture; pat dry. Dip slices in beaten egg, then dredge in breadcrumbs.\nStep 2: Fry eggplant slices in oil until golden brown on both sides; drain on paper towels.\nStep 3: Layer fried eggplant, marinara sauce, mozzarella, and Parmesan cheese in a baking dish. Bake in a preheated oven until bubbly and cheese is melted and golden."
+  },
+  {
+    "title": "Bulgogi Bowl",
+    "cost": "$14",
+    "time": "30 + marinating",
+    "ingredients": [
+      "Beef",
+      "Soy Sauce",
+      "Sugar/Honey",
+      "Sesame Oil",
+      "Garlic",
+      "Ginger",
+      "Pear",
+      "Onion/Scallions",
+      "Rice",
+      "Toppings"
+    ],
+    "img": "",
+    "preference": [
+      "Korean",
+      "Asian",
+      "Main Course",
+      "Bowl Meal"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Bowl",
+      "Pan/Grill",
+      "Knife",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Combine marinade ingredients (soy sauce, sugar, sesame oil, garlic, ginger, pear) and marinate beef for at least 30 minutes.\nStep 2: Cook marinated beef (with onions/scallions if using) in a hot pan or on a grill until cooked through and slightly caramelized.\nStep 3: Serve bulgogi over a bowl of cooked rice, adding optional toppings as desired."
+  },
+  {
+    "title": "Apple Pie",
+    "cost": "$10",
+    "time": "75-90",
+    "ingredients": [
+      "Pie Crust",
+      "Apples",
+      "Sugar",
+      "Flour/Starch",
+      "Cinnamon",
+      "Nutmeg",
+      "Lemon Juice",
+      "Butter",
+      "Egg"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "Dessert",
+      "Comfort Food"
+    ],
+    "restriction": [
+      "Vegetarian"
+    ],
+    "utensils": [
+      "Pie Dish",
+      "Bowl",
+      "Rolling Pin",
+      "Knife",
+      "Cutting Board",
+      "Oven"
+    ],
+    "instruction": "Step 1: Prepare pie crust (line pie dish with bottom crust). Peel, core, and slice apples.\nStep 2: Toss apples with sugar, flour/cornstarch, cinnamon, nutmeg, and lemon juice. Pour filling into pie crust, dot with small pieces of butter.\nStep 3: Place top crust over filling, crimp edges, cut slits for steam to escape. Brush with egg wash if desired. Bake in preheated oven until crust is golden brown and filling is bubbly."
+  },
+  {
+    "title": "Fufu and Soup",
+    "cost": "$10",
+    "time": "45-60",
+    "ingredients": [
+      "Fufu Flour",
+      "Water",
+      "Soup Ingredients"
+    ],
+    "img": "",
+    "preference": [
+      "West African",
+      "African",
+      "Main Course",
+      "Soup/Stew"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pot",
+      "Spoon/Stick",
+      "Bowl"
+    ],
+    "instruction": "Step 1: Prepare the chosen soup according to its specific recipe (e.g., simmering meat/fish with vegetables, spices, and base like peanut butter or palm nut concentrate).\nStep 2: Prepare the fufu by mixing fufu flour with water and cooking over heat, stirring vigorously until a smooth, thick, stretchy dough forms.\nStep 3: Serve a portion of fufu alongside a bowl of the hot soup. Eat by tearing off small pieces of fufu, indenting slightly, and using it to scoop up the soup."
+  },
+  {
+    "title": "Naan Pizza",
+    "cost": "$9",
+    "time": "15-20",
+    "ingredients": [
+      "Naan",
+      "Sauce",
+      "Cheese",
+      "Toppings"
+    ],
+    "img": "",
+    "preference": [
+      "Indian-Fusion",
+      "American",
+      "Lunch",
+      "Dinner",
+      "Snack",
+      "Quick Meal"
+    ],
+    "restriction": [
+      "Vegetarian (depending on toppings)"
+    ],
+    "utensils": [
+      "Baking Sheet",
+      "Oven",
+      "Knife"
+    ],
+    "instruction": "Step 1: Preheat oven or toaster oven. Place naan bread on a baking sheet.\nStep 2: Spread sauce evenly over the naan, leaving a small border.\nStep 3: Sprinkle with cheese and add desired toppings. Bake until cheese is melted and bubbly and naan is heated through."
+  },
+  {
+    "title": "Okonomiyaki",
+    "cost": "$13",
+    "time": "30-40",
+    "ingredients": [
+      "Flour",
+      "Egg",
+      "Dashi/Water",
+      "Cabbage",
+      "Scallions",
+      "Fillings",
+      "Oil",
+      "Okonomiyaki Sauce",
+      "Mayonnaise",
+      "Bonito Flakes",
+      "Aonori"
+    ],
+    "img": "",
+    "preference": [
+      "Japanese",
+      "Asian",
+      "Main Course",
+      "Snack",
+      "Street Food"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Griddle/Pan",
+      "Spatulas",
+      "Bowl",
+      "Whisk"
+    ],
+    "instruction": "Step 1: Whisk together flour, egg, and dashi/water to make the batter. Fold in cabbage, scallions, and any small fillings.\nStep 2: Heat oil on griddle/pan. Pour batter into a thick pancake shape. Place larger toppings like pork belly on top. Cook until bottom is golden brown.\nStep 3: Flip carefully and cook the other side until golden and fillings are cooked through. Flip back. Brush generously with Okonomiyaki sauce, drizzle with mayonnaise, and sprinkle with bonito flakes and aonori."
+  },
+  {
+    "title": "Chicken Alfredo",
+    "cost": "$15",
+    "time": "30-40",
+    "ingredients": [
+      "Pasta",
+      "Chicken",
+      "Butter",
+      "Cream",
+      "Garlic",
+      "Parmesan",
+      "Salt",
+      "Pepper",
+      "Olive Oil",
+      "Parsley"
+    ],
+    "img": "",
+    "preference": [
+      "Italian-American",
+      "Main Course",
+      "Comfort Food"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pot",
+      "Pan",
+      "Tongs",
+      "Whisk",
+      "Knife"
+    ],
+    "instruction": "Step 1: Cook fettuccine according to package directions; drain, reserving some pasta water.\nStep 2: While pasta cooks, season and cook chicken breast (cut into strips or cubes) in olive oil in a large skillet until done; set aside.\nStep 3: In the same skillet, melt butter, sauté minced garlic. Whisk in heavy cream and bring to a simmer. Stir in Parmesan cheese until melted and sauce is smooth. Season with salt and pepper. Add cooked pasta and chicken to the sauce, tossing to coat (add reserved pasta water if needed to thin sauce). Garnish with parsley."
+  },
+  {
+    "title": "Vegan Chili",
+    "cost": "$11",
+    "time": "45-60",
+    "ingredients": [
+      "Beans",
+      "Tomatoes",
+      "Onion",
+      "Garlic",
+      "Bell Peppers",
+      "Corn",
+      "Broth",
+      "Olive Oil",
+      "Chili Powder",
+      "Cumin",
+      "Paprika",
+      "Oregano",
+      "Salt",
+      "Pepper",
+      "Vegan Ground/Lentils"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "Tex-Mex",
+      "Main Course",
+      "Vegan",
+      "Vegetarian",
+      "Soup/Stew",
+      "Comfort Food"
+    ],
+    "restriction": [
+      "Vegan",
+      "Vegetarian",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "utensils": [
+      "Pot",
+      "Knife",
+      "Cutting Board",
+      "Spoon"
+    ],
+    "instruction": "Step 1: Heat olive oil in pot, sauté onions, bell peppers, and garlic until softened.\nStep 2: Add spices (chili powder, cumin, paprika, oregano) and cook for another minute until fragrant. Add plant-based ground/lentils if using and brown.\nStep 3: Stir in diced tomatoes, beans, corn (if using), and vegetable broth. Bring to a boil, then reduce heat and simmer for at least 30 minutes, or longer for flavors to meld. Season with salt and pepper to taste. Serve with desired toppings (e.g., vegan sour cream, avocado, cilantro)."
+  },
+  {
+    "title": "Pad Thai",
+    "cost": "$13",
+    "time": "25-30",
+    "ingredients": [
+      "Rice Noodles",
+      "Protein",
+      "Eggs",
+      "Tofu",
+      "Bean Sprouts",
+      "Chives/Scallions",
+      "Garlic/Shallots",
+      "Peanuts",
+      "Lime",
+      "Pad Thai Sauce",
+      "Oil"
+    ],
+    "img": "",
+    "preference": [
+      "Thai",
+      "Asian",
+      "Main Course",
+      "Noodles",
+      "Street Food"
+    ],
+    "restriction": [
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "utensils": [
+      "Wok",
+      "Spatula",
+      "Bowl",
+      "Knife"
+    ],
+    "instruction": "Step 1: Soak rice noodles in warm water until pliable; drain. Prepare Pad Thai sauce. Cook protein and set aside.\nStep 2: Heat oil in wok/pan, stir-fry shallots/garlic and tofu until golden. Push to one side, add eggs and scramble. Add drained noodles and Pad Thai sauce, tossing quickly to coat.\nStep 3: Add cooked protein, bean sprouts, and chives/scallions. Toss everything together until heated through. Serve immediately topped with crushed peanuts and a lime wedge."
+  },
+  {
+    "title": "Bibimbap",
+    "cost": "$14",
+    "time": "40-50",
+    "ingredients": [
+      "Rice",
+      "Vegetables",
+      "Protein",
+      "Egg",
+      "Gochujang",
+      "Sesame Oil",
+      "Sesame Seeds"
+    ],
+    "img": "",
+    "preference": [
+      "Korean",
+      "Asian",
+      "Main Course",
+      "Bowl Meal",
+      "Healthy (depending on prep)"
+    ],
+    "restriction": [
+      "Vegetarian (use tofu, omit beef)"
+    ],
+    "utensils": [
+      "Bowls",
+      "Pan",
+      "Pot",
+      "Knife",
+      "Cutting Board"
+    ],
+    "instruction": "Step 1: Prepare individual components: cook rice; sauté or blanch and season vegetables separately; cook protein; fry egg.\nStep 2: Assemble the bowl: Place a serving of rice in the bottom. Arrange the prepared vegetables and protein neatly around the edges on top of the rice.\nStep 3: Top with the fried egg in the center. Drizzle with sesame oil and sprinkle with sesame seeds. Serve with gochujang sauce on the side for mixing in."
+  },
+  {
+    "title": "Gnocchi with Pesto",
+    "cost": "$12",
+    "time": "15-20",
+    "ingredients": [
+      "Gnocchi",
+      "Pesto",
+      "Salt",
+      "Parmesan",
+      "Tomatoes",
+      "Pine Nuts"
+    ],
+    "img": "",
+    "preference": [
+      "Italian",
+      "Main Course",
+      "Quick Meal",
+      "Vegetarian"
+    ],
+    "restriction": [
+      "Vegetarian"
+    ],
+    "utensils": [
+      "Pot",
+      "Strainer",
+      "Bowl/Pan"
+    ],
+    "instruction": "Step 1: Bring a large pot of salted water to a boil. Add gnocchi and cook according to package directions (usually until they float, about 2-4 minutes).\nStep 2: While gnocchi cooks, warm pesto gently in a large bowl or pan (optional).\nStep 3: Drain cooked gnocchi and add immediately to the pesto. Toss gently to coat. Serve topped with grated Parmesan cheese and optional additions."
+  },
+  {
+    "title": "Jambalaya",
+    "cost": "$15",
+    "time": "50-60",
+    "ingredients": [
+      "Rice",
+      "Chicken",
+      "Sausage",
+      "Shrimp",
+      "Onion",
+      "Celery",
+      "Bell Pepper",
+      "Garlic",
+      "Tomatoes",
+      "Broth",
+      "Cajun Seasoning",
+      "Oil",
+      "Bay Leaf",
+      "Salt",
+      "Pepper",
+      "Garnish"
+    ],
+    "img": "",
+    "preference": [
+      "American (Cajun/Creole)",
+      "Southern US",
+      "Main Course",
+      "One-Pot Meal"
+    ],
+    "restriction": [],
+    "utensils": [
+      "Pot/Dutch Oven",
+      "Knife",
+      "Cutting Board",
+      "Spoon"
+    ],
+    "instruction": "Step 1: Brown chicken and sausage in oil in the pot; remove and set aside. Sauté the 'Holy Trinity' (onion, celery, bell pepper) until softened. Add garlic.\nStep 2: Stir in rice, diced tomatoes, broth, Cajun seasoning, bay leaf, salt, and pepper. Bring to a boil.\nStep 3: Return chicken and sausage to the pot. Reduce heat, cover, and simmer until rice is cooked and liquid is absorbed (about 20-25 minutes). Add shrimp during the last 5-10 minutes if using. Fluff rice, remove bay leaf, and garnish before serving."
+  },
+  {
+    "title": "Plantain Chips",
+    "cost": "$4",
+    "time": "20-30",
+    "ingredients": [
+      "Plantains",
+      "Oil/Spray",
+      "Salt"
+    ],
+    "img": "",
+    "preference": [
+      "Latin American",
+      "Caribbean",
+      "African",
+      "Snack",
+      "Side Dish"
+    ],
+    "restriction": [
+      "Vegan",
+      "Gluten-Free",
+      "Dairy-Free"
+    ],
+    "utensils": [
+      "Mandoline/Knife",
+      "Fryer/Oven/Air Fryer",
+      "Tongs"
+    ],
+    "instruction": "Step 1: Peel green plantains and slice them very thinly using a mandoline or knife.\nStep 2: Fry the slices in hot oil until golden brown and crispy (working in batches), OR toss with a little oil/spray and bake/air fry until crispy.\nStep 3: Remove chips from oil/oven/air fryer, drain on paper towels, and sprinkle immediately with salt."
+  },
+  {
+    "title": "Crepes",
+    "cost": "$7",
+    "time": "20-30",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Salt",
+      "Sugar",
+      "Fillings"
+    ],
+    "img": "",
+    "preference": [
+      "French",
+      "European",
+      "Breakfast",
+      "Dessert",
+      "Snack"
+    ],
+    "restriction": [
+      "Vegetarian (depending on filling)"
+    ],
+    "utensils": [
+      "Pan",
+      "Whisk",
+      "Bowl",
+      "Ladle",
+      "Spatula"
+    ],
+    "instruction": "Step 1: Whisk together flour, eggs, milk, melted butter, salt, and sugar (if using) until a smooth, thin batter forms. Let rest for 15-30 minutes if possible.\nStep 2: Heat a lightly greased crepe pan or non-stick skillet over medium heat. Pour a small ladleful of batter into the center, swirling the pan to create a thin, even circle.\nStep 3: Cook for 1-2 minutes until the edges lift and the bottom is lightly golden. Flip and cook the other side briefly. Remove crepe, fill as desired, fold or roll, and serve."
+  },
+  {
+    "title": "Greek Salad",
+    "cost": "$9",
+    "time": "10-15",
+    "ingredients": [
+      "Tomatoes",
+      "Cucumbers",
+      "Red Onion",
+      "Olives",
+      "Feta",
+      "Bell Pepper",
+      "Olive Oil",
+      "Vinegar",
+      "Oregano",
+      "Salt",
+      "Pepper"
+    ],
+    "img": "",
+    "preference": [
+      "Greek",
+      "Mediterranean",
+      "Salad",
+      "Side Dish",
+      "Healthy",
+      "Vegetarian"
+    ],
+    "restriction": [
+      "Vegetarian",
+      "Gluten-Free"
+    ],
+    "utensils": [
+      "Bowl",
+      "Knife",
+      "Cutting Board",
+      "Bowl/Jar"
+    ],
+    "instruction": "Step 1: Chop tomatoes, cucumbers, bell pepper (if using), and slice red onion.\nStep 2: Combine chopped vegetables and olives in a large salad bowl. Crumble feta cheese over the top.\nStep 3: Whisk together olive oil, red wine vinegar, oregano, salt, and pepper for the dressing. Pour over salad and toss gently just before serving."
+  },
+  {
+    "title": "Pumpkin Soup",
+    "cost": "$9",
+    "time": "30-40",
+    "ingredients": [
+      "Pumpkin Puree",
+      "Onion",
+      "Garlic",
+      "Broth",
+      "Cream/Coconut Milk",
+      "Oil/Butter",
+      "Spices",
+      "Salt",
+      "Pepper"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "European",
+      "Soup",
+      "Appetizer",
+      "Fall/Winter",
+      "Vegetarian (use vegetable broth)"
+    ],
+    "restriction": [
+      "Gluten-Free",
+      "Vegan (use oil, veggie broth, coconut milk)"
+    ],
+    "utensils": [
+      "Pot",
+      "Blender",
+      "Knife",
+      "Cutting Board",
+      "Spoon"
+    ],
+    "instruction": "Step 1: Sauté chopped onion and garlic in oil/butter in a pot until softened.\nStep 2: Stir in pumpkin puree, broth, spices, salt, and pepper. Bring to a simmer and cook for 10-15 minutes.\nStep 3: Blend the soup until smooth using an immersion or countertop blender. Return to pot, stir in cream/coconut milk if desired, and heat gently. Adjust seasoning and serve."
+  },
+  {
+    "title": "French Toast",
+    "cost": "$7",
+    "time": "15-20",
+    "ingredients": [
+      "Bread",
+      "Eggs",
+      "Milk/Cream",
+      "Sugar",
+      "Cinnamon",
+      "Vanilla",
+      "Butter",
+      "Syrup"
+    ],
+    "img": "",
+    "preference": [
+      "American",
+      "French (Pain Perdu)",
+      "Breakfast",
+      "Brunch",
+      "Vegetarian"
+    ],
+    "restriction": [
+      "Vegetarian"
+    ],
+    "utensils": [
+      "Shallow Dish",
+      "Pan",
+      "Spatula",
+      "Whisk",
+      "Fork"
+    ],
+    "instruction": "Step 1: In a shallow dish, whisk together eggs, milk/cream, sugar (if using), cinnamon, and vanilla.\nStep 2: Dip each slice of bread into the egg mixture, soaking both sides briefly.\nStep 3: Melt butter in a pan or on a griddle over medium heat. Cook soaked bread slices until golden brown on both sides. Serve immediately with maple syrup and other desired toppings."
+  }
+]

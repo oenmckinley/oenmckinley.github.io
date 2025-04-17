@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Groceries - CookMate</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/groceries.css">
+    <link rel="stylesheet" href="../css/navbar.css">
+    <link rel="stylesheet" href="../css/recipecontainer.css">
+</head>
+
+<body>
+
+    <header class="topbar">
+        <div class="logo"><i class="bi bi-book"></i> CookMate</div>
+        <nav class="nav-links">
+            <a class="btn_header" href="1.recipes.html">Recipes</a>
+            <a class="btn_header" href="2.myPlanner.html">My Planner</a>
+            <a class="btn_header" href="3.myGroceries.html">My Groceries</a>
+            <a class="btn_header" href="4.profile.html">Profile</a>
+        </nav>
+    </header>
+
+    <div class="groceries">
+
+        <div class="left-groceries section-groceries">
+            <div class="recipe-groceries sub-groceries">
+                <br>
+                <div class="added-groceries chunk-groceries">
+                    <h2>Added Recipes</h2>
+                    <div class="grid-groceries" id="addedGrid"></div>
+                </div>
+                <div class="week-groceries chunk-groceries">
+                    <h2>This Week's Recipes</h2>
+                    <div class="grid-groceries" id="weekGrid"></div>
+                </div>
+            </div>
+            <button class="btn_add add-groceries" onclick="renderGroceryList(allRecipes)"> Make Grocery List! </button>
+        </div>
+        <div class="right-groceries section-groceries sub-groceries">
+            <div class="list-groceries">
+                <h2>Grocery List</h2>
+                <br>
+                <ul id="gl">
+
+                </ul>
+            </div>
+            <div class="download-groceries">
+                <hr>
+                <br>
+                <h2>Download:</h2>
+                <br>
+                <a class="download-link" href="3.myGroceries.html" onclick="downloadGroceries('txt')">To Text File</a>
+                <a class="download-link" href="3.myGroceries.html" onclick="downloadGroceries('csv')">To CSV File</a>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="../js/addedrecipes.js"></script>
+    <script src="../js/groceries.js"></script>
+
+
+</body>
+
+</html>
