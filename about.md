@@ -8,17 +8,17 @@ layout: default
 
 ### Overview
 
-Hello! My name is Oen McKinley, and I am a second-year Ph.D. candidate with the [Visual Interface and Behavior Exploration Lab](http://visualdata.wustl.edu/) at Washington University in St. Louis. My focus is in the field of Data Visualizations, working with [Dr. Alvitta Ottley](https://scholar.google.com/citations?user=yepPD_cAAAAJ&amp;hl=en).
+Hello! My name is Oen McKinley, and I am a third-year Ph.D. candidate with the [Visual Interface and Behavior Exploration Lab](http://visualdata.wustl.edu/) at Washington University in St. Louis. My focus is in the field of Data Visualizations, working with [Dr. Alvitta Ottley](https://scholar.google.com/citations?user=yepPD_cAAAAJ&amp;hl=en).
 
 I grew up in Northfield, Minnesota for most of my childhood before going to Grinnell College in Iowa. I then moved to Omaha, Nebraska with my now wife. After moving to Des Moines, we now find ourselves in St. Louis, Missouri for my Ph.D. research at Washington University. 
 
 ### Work and Education History
 
-I received a Bachelor of Arts from Grinnell College for Computer Science and Political Science in 2015. After graduation, I worked as a Software Engineer for three years with a Bay Area start-up on developing their employee benefit software solution. 
+I received a Bachelor of Arts from Grinnell College for Computer Science and Political Science in 2015. After graduation, I worked as a Software Engineer for three years at the Omaha branch of a Bay Area start-up on developing their employee benefit software solution. 
 
 ### Current Ph.D. 
 
-After three years of software engineering, I decided to make a career change into research. I had always been interested in the human side of computer science, and after my rotations I have been working with Alvitta Ottley's Visual Interface and Behavior Exploration Lab at Washington University, focusing on the field of Data Visualization. 
+After three years of software engineering, I decided to make a career change into research. I had always been interested in the human side of computer science, with a passion for the (in my opinion) under-appreciated field of Human-Computer Interaction. I have been working with Alvitta Ottley's Visual Interface and Behavior Exploration Lab at Washington University, focusing on the field of Data Visualization. 
 
 For more about my current research, see below:
 
@@ -40,5 +40,3 @@ Here are some relevant links:
 Email: [m.oen@wustl.edu](mailto:m.oen@wustl.edu)
 
 Github: [oenmckinley](https://github.com/oenmckinley)
-
-Google Scholar: [Oen G. McKinley](https://scholar.google.com/citations?hl=en&user=l_B0DdgAAAAJ)
