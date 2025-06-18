@@ -19,7 +19,7 @@ My research has so far focused on the realm of trust in Data Visualization, name
 
 ## Published Works
 
-[Trustworthy by Design: The Viewer’s Perspective on Trust in Data Visualization](https://doi.org/10.1145/2531602.2531699)\
+[Trustworthy by Design: The Viewer’s Perspective on Trust in Data Visualization](https://doi.org/10.1145/3706598.3713824)\
 **Oen G. McKinley**, Saugat Pandey, Alvitta Ottley\
 ACM CHI, Apr 2025\
 _Using qualitative user responses to gain a deeper understanding on the user perspective on trust and generate design guidelines to make more trustworthy visualizations._
