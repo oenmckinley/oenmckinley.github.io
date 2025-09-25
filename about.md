@@ -8,7 +8,7 @@ layout: default
 
 ### Overview
 
-Hello! My name is Oen McKinley, and I am a third-year Ph.D. candidate with the [Visual Interface and Behavior Exploration Lab](http://visualdata.wustl.edu/) at Washington University in St. Louis. My focus is in the field of Data Visualizations, working with [Dr. Alvitta Ottley](https://scholar.google.com/citations?user=yepPD_cAAAAJ&amp;hl=en).
+Hello! My name is Oen McKinley, and I am a fourth-year Ph.D. candidate with the [Visual Interface and Behavior Exploration Lab](http://visualdata.wustl.edu/) at Washington University in St. Louis. My focus is in the field of Data Visualizations, working with [Dr. Alvitta Ottley](https://scholar.google.com/citations?user=yepPD_cAAAAJ&amp;hl=en).
 
 I grew up in Northfield, Minnesota for most of my childhood before going to Grinnell College in Iowa. I then moved to Omaha, Nebraska with my now wife. After moving to Des Moines, we now find ourselves in St. Louis, Missouri for my Ph.D. research at Washington University. 
 
