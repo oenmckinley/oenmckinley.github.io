@@ -18,7 +18,7 @@ The [Visual Interface and Behavior Exploration (VIBE) Lab](http://visualdata.wus
 
 [Truncation to Task: A Task-Based Exploration of Axis Truncation in Bar Charts](https://doi.org/10.1145/3772318.3790617)\
 **Oen G. McKinley**, Alvitta Ottley\
-ACM CHI, Apr 2025\
+ACM CHI, Apr 2026\
 _Performing user studies to more deeply investigate the nuanced effects of bar chart axis truncation, both positive and negative, using various visualization tasks as the lens of analysis._
 
 [Trustworthy by Design: The Viewer’s Perspective on Trust in Data Visualization](https://doi.org/10.1145/3706598.3713824)\
